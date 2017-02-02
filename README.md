@@ -13,3 +13,10 @@ I cannot and will not take full credit for the configs in this repo
 
 However, everything was checked and built to create a working Remotely Triggered BlackHole
 
+This project was made with the following pieces of software:
+
+[BIRD](http://bird.network.cz/)
+
+[Quagga](http://www.nongnu.org/quagga/)
+
+[Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page)
