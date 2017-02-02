@@ -1,3 +1,3 @@
 # RTBH
 
-Fail2Ban configs
+fail2ban config scripts

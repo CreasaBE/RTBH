@@ -1,3 +1,3 @@
 # RTBH
 
-JunOS config
+Junos config scripts

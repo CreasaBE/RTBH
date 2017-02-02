@@ -1,3 +1,3 @@
 # RTBH
 
-Bird configurations
+bird config scripts
