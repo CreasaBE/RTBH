@@ -5,7 +5,7 @@ a RTBH config consisting of fail2ban, bird, quagga, junos, ios and possibly mikr
 ---
 Please note this is still under construction at this moment. Everything is still being populated and tested
 
-Remarkds and/or comments are always welcome, but please keep it civil
+Remarks and/or comments are always welcome, but please keep it civil
 ***
 
 All configs and scripts are made with bits of code found from other users.
